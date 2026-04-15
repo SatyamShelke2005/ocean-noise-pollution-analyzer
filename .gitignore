@@ -1,0 +1,22 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment
+venv/
+.env
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Dataset (avoid large files)
+data/
+*.csv
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VS Code settings
+.vscode/
