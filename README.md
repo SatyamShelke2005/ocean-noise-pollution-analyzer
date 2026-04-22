@@ -118,13 +118,14 @@ git clone https://github.com/your-username/ocean-noise-pollution-analyzer.git
 2. Install dependencies:
 
 ```
+
 pip install -r requirements.txt
 ```
 
 3. Run Jupyter Notebook:
 
 ```
-jupyter notebook
+Github_project.ipnb
 ```
 
 4. Open and execute:
@@ -132,9 +133,14 @@ jupyter notebook
 ```
 Ocean_Noise_Analyzer.ipynb
 ```
+5.run pipelie.py
 
+```
+python pipeline.py
+```
 ---
 
+   
 ## 📊 Visualizations
 
 * Model Accuracy Comparison
